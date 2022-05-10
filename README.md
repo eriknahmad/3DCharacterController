@@ -12,10 +12,11 @@ Download the Package file and open your Unity project.
 - Drag Package file into your Project.
 - Import all file contents via the Package Manager popup.
 - Drag Player Prefab onto your scene.
+- Run the project.
 
-</br>If you wish to configure jumpable terrain then once you have the Player Prefab in your scene:
-- Select your Terrain and create a new Layer named Ground.
-- Select your Player Prefab then in the Inspector locate the Script Component.
+</br>Extra step to configure jumpable terrain:
+- Select your Terrain and in the inspector create a new Layer named Ground.
+- Select your Player Prefab and in the Inspector locate the Script Component.
 - In the Script Component set the Ground Mask to the new Layer you created.
 
 
