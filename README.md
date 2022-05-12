@@ -4,7 +4,7 @@ Huge thanks to [Brackeys](https://www.youtube.com/c/Brackeys) for providing some
 
 
 # Motivation
-I created this project so I can start designing terrains in Unity Game Engine and explore them on foot with a Character Controller. Next I will add animations, enemies, and other basic RPG features.
+I created this project so I can start designing terrains in Unity Game Engine and explore them on foot with a Character Controller. Next I will add animations, combat, items and inventory, and other basic RPG features.
 
 
 # How to use?
